@@ -31,16 +31,18 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
 ├── template
-│   ├── ipl_forntend.html
-│   ├── IPL_result.html
+│   ├── css
+│   ├── image
+│   ├── front
+│   ├── index.html
+│   ├── Positive_predict.html
+│   ├── negative_predict.html
 ├── Procfile
 ├── README.md
 ├── main.py
-├── IPL model.ipynb
-├── first-innings-score-lr-model.pkl
+├── Heart Attack Analysis.ipynb
+├── SVM_heart.pkl
 ├── requirements.txt
 ```
 
